@@ -223,7 +223,7 @@ pd.style.color="#d1d1d1";
 pd.style.fontSize = "10px";
 pd.style.zIndex="999999999999999999";
 pd.style.textAlign="center";
-pd.innerHTML="&copy; Prateek Chaubey";
+pd.innerHTML="&copy; 2026";
 document.getElementById("tophead").appendChild(pd);
 $(".h4").text("AIRAVAT");
 document.getElementById("phones").appendChild(pd1);
