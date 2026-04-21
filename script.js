@@ -213,7 +213,7 @@ pd1.style.color="grey";
 pd1.style.fontSize = "10px";
 pd1.style.textAlign="center";
 pd1.style.border="1px solid #0f8";
-pd1.innerHTML="Want More Features Contact at <a href='https://t.me/th30neand0nly' style='color:#0f8;'>@th30neand0nly</a>";
+pd1.innerHTML="Submitted By:- 246490316110, 246490316116, 246490316125, 246490316134, 246490316150.";
 
 
 var pd=document.createElement("div");
